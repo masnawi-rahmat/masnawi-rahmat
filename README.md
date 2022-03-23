@@ -1,3 +1,5 @@
+<img width="750" alt="grad8" src="https://user-images.githubusercontent.com/97861822/159657460-4240027c-67ed-4ef8-8beb-7b48ef1ac69b.png">
+
 - 👋 Hi, I’m @masnawi_rahmat
 - 👀 I’m interested in everything about scripting, cloud support & devops tools
 - 🌱 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
