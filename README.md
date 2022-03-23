@@ -1,4 +1,4 @@
-<img width="750" alt="grad8" src="https://user-images.githubusercontent.com/97861822/159657460-4240027c-67ed-4ef8-8beb-7b48ef1ac69b.png">
+<img width="750" alt="grad10" src="https://user-images.githubusercontent.com/97861822/159710702-bef1f4ab-d5ad-46bc-a402-afbb87159325.png">
 
 - 👋 Hi, I’m @masnawi_rahmat
 - 👀 I’m interested in everything about scripting, cloud support & devops tools
