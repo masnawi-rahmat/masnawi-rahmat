@@ -1,6 +1,6 @@
 <img width="750" alt="grad10" src="https://user-images.githubusercontent.com/97861822/159710702-bef1f4ab-d5ad-46bc-a402-afbb87159325.png">
 
-![yoda](https://user-images.githubusercontent.com/97861822/159723035-eee84b9f-e9a4-4a9c-b92b-775fb159ed27.gif) “The more is I know Terraform, the more nothing is I know is I realized.” ~ Yoda'vØpscrates
+![yoda](https://user-images.githubusercontent.com/97861822/159723035-eee84b9f-e9a4-4a9c-b92b-775fb159ed27.gif) “The more is I know Terraform, the more nothing is I know is I realized.” ~ Yodav'Øpscrates
 
 - 👋 Hi, I’m @masnawi_rahmat
 - 👀 I’m interested in everything about scripting, cloud support & devops tools
