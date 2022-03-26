@@ -1,6 +1,5 @@
 ![grad_profile](https://user-images.githubusercontent.com/97861822/159736706-0b228932-b531-42d0-ad1a-a71a5d8756dc.gif)
-
-![yoda2](https://user-images.githubusercontent.com/97861822/160243180-0ef798e2-79eb-4547-a4ae-e349cf212430.gif) “The more is I know Terraform, the more nothing is I know is I realized.” ~ YoĐavØpsōkrátēs
+![yoda3](https://user-images.githubusercontent.com/97861822/160243706-1ae39563-6376-45ee-b252-8ffb4cacdf90.gif) “The more is I know Terraform, the more nothing is I know is I realized.” ~ YoĐavØpsōkrátēs
 - 👋 Hi, I’m @masnawi_rahmat
 - 👀 I’m interested in everything about scripting, cloud support & devops tools
 - 🌱 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
