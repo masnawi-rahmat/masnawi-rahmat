@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @*masnawi.rahmat*
 - 👀 I’m interested in everything about scripting, cloud support & devops tools
 - 🌱 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
-- 💞️ I’m looking to collaborate on anythning that would let me have a better grip on the fundamentals and help others like me to pick up the necessary skills
+- 💞️ I’m looking forward to collaborate on anythning that would let me have a better grip on the fundamentals and help others like me to pick up the necessary skills
 - 📫 You can reach me at *masnawi.rahmat.sgupmsct@gmail.com* or *www.linkedin.com/in/masnawi-rahmat*
 
 <!---
