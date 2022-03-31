@@ -5,10 +5,8 @@
 - 🌱 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
 - 💞️ I’m looking forward to collaborate on anythning that would let me have a better grip on the fundamentals and help others like me to pick up the necessary skills
 - 📫 You can reach me at *masnawi.rahmat.sgupmsct@gmail.com* or *www.linkedin.com/in/masnawi-rahmat*
-
 <!---
 masnawi-rahmat/masnawi-rahmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ![madebabs04](https://user-images.githubusercontent.com/97861822/160972901-3117d2db-bfc9-41fc-9100-9f763a3469ed.png)
