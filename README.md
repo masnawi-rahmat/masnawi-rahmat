@@ -4,7 +4,7 @@
 - 👀 I’m interested in anything and everything about scripting, cloud support & devops tools
 - 👨‍💻 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
 - 🤝🏼 I’m happy to collaborate to get a better grip on the fundamentals and help others like me to pick up the necessary skills
-- ⚒️ I'm always a work in progress de-constructing and re-constructing 'stuffs' with the view of contributing to the shared knowledge pool
+- ⚒️ I'm always a work in progress deconstructing and reconstructing 'stuffs' with the view of contributing to the shared knowledge pool
 - 📫 You can reach me at 📧 *masnawi.rahmat@gmail.com* or 🅻 *www.linkedin.com/in/masnawi-rahmat*
 <!---
 masnawi-rahmat/masnawi-rahmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
