@@ -2,7 +2,7 @@
 ![yoda3](https://user-images.githubusercontent.com/97861822/160243706-1ae39563-6376-45ee-b252-8ffb4cacdf90.gif) *“The more is I know Terraform, the more nothing is I know is I realized.”* ~ *YoĐavØpsōkrátēs*
 - 😃 Hi, I’m @*masnawi.rahmat*
 - 👀 I’m interested in anything and everything about scripting, cloud support & devops tools
-- 👨‍💻 I’m currently learning as an apprentice at a cloud support & devops engineering bootcamp
+- 👨‍💻 I’m currently learning as a devops analyst at a cloud support & devops engineering bootcamp/apprenticeship
 - 🤝🏼 I’m happy to collaborate to get a better grip on the fundamentals and help others like me to pick up the necessary skills
 - ⚒️ I'm a work in progress deconstructing and reconstructing 'stuffs' with the view of contributing to the shared knowledge pool
 - 📫 You can reach me at 📧 *masnawi.rahmat@gmail.com* or 🅻 *www.linkedin.com/in/masnawi-rahmat*
