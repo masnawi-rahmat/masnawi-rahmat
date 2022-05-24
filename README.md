@@ -10,7 +10,7 @@
 🔸 Portainer hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Code-Server running in Docker container hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Private GitLab Runner running in Docker container hosted in Linux VM (Cloud)
-🔸 ASP.Net Web App hosted in Azure for testing of CI/CD pipeline Azure Web App
+🔸 ASP.Net Web App hosted in Azure for testing of CI/CD pipeline
 🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline GitLab 🔸
 - 📫 Get connected : 
 📧 *masnawi.rahmat@gmail.com* 
