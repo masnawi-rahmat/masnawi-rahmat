@@ -11,7 +11,7 @@
 🔸 Code-Server running in Docker container hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Private GitLab Runner running in Docker container hosted in Linux VM (Cloud)
 🔸 ASP.Net Web App hosted in Azure for testing of CI/CD pipeline
-🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline 🔸 CI/CD pipeline build from Visual Studio to GitLab and to Azure Web App 🔸 
+🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline 🔸 CI/CD pipeline build of ASP.Net Web App from Visual Studio to GitLab and to Azure Web App 🔸 
 - 📫 Get connected : 
 📧 *masnawi.rahmat@gmail.com* 
 🅻 *www.linkedin.com/in/masnawi-rahmat* 
