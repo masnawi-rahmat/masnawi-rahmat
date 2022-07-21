@@ -2,16 +2,20 @@
 ![yoda3](https://user-images.githubusercontent.com/97861822/160243706-1ae39563-6376-45ee-b252-8ffb4cacdf90.gif) *“The more is I know Terraform, the more nothing is I know is I realized.”* ~ *YoĐavØpsōkrátēs*
 - 😃 Hi, I’m @*masnawi.rahmat*
 - 👀 I’m interested in anything and everything about scripting, cloud support & devops tools
-- 👨‍💻 I’m currently training as a devops analyst at a cloud support & devops engineering bootcamp/company apprenticeship
+- 👨‍💻 I’m currently a devops junior engineer working with Jira, Jenkins, Bitbucket, Nexus, JFrog, Openshift and containerization
 - 🤝🏼 I’m happy to collaborate to get a better grip on the fundamentals and help others like me to pick up the necessary skills
 - ⚒️ I'm a work in progress deconstructing and reconstructing 'stuffs' with the view of contributing to the shared knowledge pool
 - 🧪 Personal project :
 🔸 WireGuard VPN server hosted in Raspberry Pi 3 (Local)
+🔸 Pihole DNS server hosted in Raspberry Pi 3 (Local)
 🔸 Portainer hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Code-Server running in Docker container hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
-🔸 Private GitLab Runner running in Docker container hosted in Linux VM (Cloud)
+🔸 Jenkins server hosted in Linux VM (Cloud) and running in a Docker container 
+🔸 Private GitLab Runner running in a Docker container hosted in Linux VM (Cloud)
 🔸 ASP.Net Web App hosted in Azure for testing of CI/CD pipeline
-🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline 🔸 CI/CD pipeline build of ASP.Net Web App from Visual Studio to GitLab and to Azure Web App CI/CD 🔸 Jenkins pipeline as a code hosted in Github 🔸 Jenkins hosted in Linux VM (Cloud) and running in Docker container 🔸
+🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline 
+🔸 CI/CD pipeline build of ASP.Net Web App hosted in GitLab and pushed to Azure Web App 
+🔸 CI/CD pipeline as a code hosted in Github and pushed to Jenkins server
 - 📫 Get connected : 
 📧 *masnawi.rahmat@gmail.com* 
 🅻 *www.linkedin.com/in/masnawi-rahmat* 
