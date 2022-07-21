@@ -1,11 +1,11 @@
 ![grad_profile](https://user-images.githubusercontent.com/97861822/159736706-0b228932-b531-42d0-ad1a-a71a5d8756dc.gif)
 ![yoda3](https://user-images.githubusercontent.com/97861822/160243706-1ae39563-6376-45ee-b252-8ffb4cacdf90.gif) *“The more is I know Terraform, the more nothing is I know is I realized.”* ~ *YoĐavØpsōkrátēs*
 - 😃 Hi, I’m @*masnawi.rahmat*
-- 👀 I’m interested in anything and everything about scripting, cloud support & devops tools
-- 👨‍💻 I’m currently a devops junior engineer working with Jira, Jenkins, Bitbucket, Nexus, JFrog, Openshift and containerization
+- 👀 I’m interested in devops tools, scripting & cloud infra provisioning
+- 👨‍💻 I’m currently a jr devops engineer professionally working with Jira, Jenkins, Bitbucket, Nexus, JFrog, Openshift and containerization
 - 🤝🏼 I’m happy to collaborate to get a better grip on the fundamentals and help others like me to pick up the necessary skills
-- ⚒️ I'm a work in progress deconstructing and reconstructing 'stuffs' with the view of contributing to the shared knowledge pool
-- 🧪 Personal project :
+- ⚒️ There is no end to learning and this Github page is forever a work in progress
+- 🧪 Personal hobbyist project :
 🔸 WireGuard VPN server hosted in Raspberry Pi 3 (Local)
 🔸 Pihole DNS server hosted in Raspberry Pi 3 (Local)
 🔸 Portainer hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
