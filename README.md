@@ -7,7 +7,7 @@
 - ⚒️ There is no end to learning and this Github page is forever a work in progress
 - 🧪 Personal hobbyist project completed :
 🔸 WireGuard VPN server hosted in Raspberry Pi 3 (Local)
-🔸 Pihole DNS server hosted in Raspberry Pi 3 (Local)
+🔸 PiHole DNS server hosted in Raspberry Pi 3 (Local)
 🔸 Portainer hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Code-Server running in Docker container hosted in both Linux VM (Cloud) and Raspberry Pi 4 (Local)
 🔸 Jenkins server hosted in Linux VM (Cloud) and running in a Docker container 
