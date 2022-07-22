@@ -13,9 +13,8 @@
 🔸 Jenkins server hosted in Linux VM (Cloud) and running in a Docker container 
 🔸 Private GitLab Runner running in a Docker container hosted in Linux VM (Cloud)
 🔸 ASP.Net Web App hosted in Azure for testing of CI/CD pipeline
-🔸 ASP.Net Web App code hosted in GitLab repository to test GitLab CI/CD pipeline 
-🔸 CI/CD pipeline build of ASP.Net Web App repoed in GitLab and pushed to Azure Web App 
-🔸 CI/CD pipeline as a code repoed in Github and pushed to Jenkins server 🔸
+🔸 CI/CD pipeline build of ASP.Net Web App repoed in GitLab and deployed in Azure
+🔸 CI/CD pipeline as a code repoed in Github and staged in Jenkins server 🔸
 - 📫 Get connected : 
 📧 *masnawi.rahmat@gmail.com* 
 🅻 *www.linkedin.com/in/masnawi-rahmat* 
