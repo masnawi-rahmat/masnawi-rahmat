@@ -2,7 +2,7 @@
 ![yoda3](https://user-images.githubusercontent.com/97861822/160243706-1ae39563-6376-45ee-b252-8ffb4cacdf90.gif) *“The more is I know Terraform, the more nothing is I know is I realized.”* ~ *YoĐavØpsōkrátēs*
 - 😃 Hi, I’m @*masnawi.rahmat*
 - 👀 I’m interested in devops (tools & scripting) & cloud infra provisioning
-- 👨‍💻 I’m currently a jr devops engineer professionally working with Jira, Jenkins, Bitbucket, Nexus, JFrog, Openshift and containerization
+- 👨‍💻 I’m currently a jr devops engineer working with Jira, Jenkins, Bitbucket, Nexus, JFrog, Openshift and containerization
 - 🤝🏼 I’m happy to collaborate to get a better grip on the fundamentals and help others like me to pick up the necessary skills
 - ⚒️ There is no end to learning and this Github page is forever a work in progress
 - 🧪 Personal hobbyist project completed :
