@@ -17,7 +17,6 @@
 - 📫 Get connected : 
 📧 *masnawi.rahmat@gmail.com* 
 🅻 *www.linkedin.com/in/masnawi-rahmat* 
-🌐 *https://masnawi-rahmat.azurewebsites.net*
 <!---
 masnawi-rahmat/masnawi-rahmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
